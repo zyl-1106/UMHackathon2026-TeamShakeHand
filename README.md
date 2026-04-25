@@ -14,12 +14,11 @@ Access our live system modules here:
 ---
 
 ## 📄 PROJECT DOCUMENTATION (PDF)
-All technical documentations are stored in this repository. 
-*(Note: Please ensure you have renamed your PDF files in the "Documentation" folder exactly as written below before committing)*:
-* [Product Requirement Document (PRD)](./Documentation/PRD_Product Requirement Documentation.pdf)
-* [System Analysis Documentation (SAD)](./Documentation/SAD_System Analysis Documentation.pdf)
-* [Quality Assurance Testing Documentation (QATD)](./Documentation/QATD_Quality Assurance Testing Documentation.pdf)
-* [Pitching Presentation Slide](./Documentation/Pitch deck_Z.AI Emergency Portal.pdf)
+All technical documentations are stored in this repository:
+* [Product Requirement Document (PRD)](./Documentation/PRD_Product%20Requirement%20Documentation.pdf)
+* [System Analysis Documentation (SAD)](./Documentation/SAD_System%20Analysis%20Documentation.pdf)
+* [Quality Assurance Testing Documentation (QATD)](./Documentation/QATD_Quality%20Assurance%20Testing%20Documentation.pdf)
+* [Pitching Presentation Slide](./Documentation/Pitch%20deck_Z.AI%20Emergency%20Portal.pdf)
 
 ---
 
