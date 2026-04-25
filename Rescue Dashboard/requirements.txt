@@ -1,0 +1,6 @@
+streamlit
+pandas
+firebase-admin
+streamlit-autorefresh
+google-genai
+requests
